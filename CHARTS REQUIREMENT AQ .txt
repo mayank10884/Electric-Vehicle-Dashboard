@@ -1,0 +1,8 @@
+                                                     CHARTS REQUIREMENT A/Q 
+
+1. Total Vehicles by Model Year (2010) :- Line Chart
+2. Total Vehicles by State :- Map Chart
+3. Top Ten Vehicles By Make :- Bar Chart
+4. Total Vehicles by CAFV Eligibility :- Pie Chart or Donut Chart
+5. Total Vehicles by Year :- Grid View
+
